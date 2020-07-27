@@ -5,12 +5,6 @@
       "name": "Felipe",
       "username": "FelipeSantos",
       "avatar": "https://previews.123rf.com/images/yupiramos/yupiramos1802/yupiramos180229973/96297654-young-man-model-with-glasses-avatar-character-vector-illustration-design.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Felipinho",
-      "username": "felipinhoSantos",
-      "avatar": "https://previews.123rf.com/images/yupiramos/yupiramos1802/yupiramos180229973/96297654-young-man-model-with-glasses-avatar-character-vector-illustration-design.jpg"
     }
   ],
   "feed": [
@@ -64,25 +58,6 @@
       "comments": 3,
       "coverImageURL": null,
       "userId": 1,
-      "co2": 1.5,
-      "lightPeriod": 5,
-      "lightModel": "Chihiros RGB VIVID 2",
-      "gravel": "ADA Amazonia",
-      "filter": "Oase Indoor Aquatics Biomaster 250",
-      "allPhotos": []
-    },
-    {
-      "id": 2,
-      "bornAt": "2020-06-05",
-      "length": 90,
-      "width": 45,
-      "height": 45,
-      "title": "Tank 2",
-      "likes": 240,
-      "photos": 45,
-      "comments": 10,
-      "coverImageURL": "undefined",
-      "userId": 2,
       "co2": 1.5,
       "lightPeriod": 5,
       "lightModel": "Chihiros RGB VIVID 2",
